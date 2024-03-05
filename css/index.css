@@ -255,3 +255,59 @@ button img {
     margin-top: 40px;
     box-shadow: 0 0 0.5em 0.1em #c3c3c333;;
 }
+/* Setter lenketeksten til svart og fjerner understreking på hele siden */
+a {
+    text-decoration: none; /* Fjerner understrek på lenker */
+    color: black; /* Endrer lenkefargen til svart */
+}
+
+/* Navigasjonsdiv-elementet */
+.nav_flex {
+    background: #08529d;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333; /* Endrer bakgrunnsfarge til mørk khaki */
+    display: flex; /* Bruker flexbox for layout */
+    justify-content: space-between; /* Sprer elementene jevnt langs aksen */
+    align-items: center; /* Sentrerer elementene vertikalt */
+    border-radius: 10px; /* Gir boksen avrundede hjørner */
+}
+
+.produkt {
+    display: flex;
+    justify-content: start;
+}
+
+/* 'Norwegian Fragrances' tekst */
+#tittel {
+    display: flex;
+    padding: 20px;
+    font-size: 40px;
+}
+
+/* 'Produkt' tekst i navigasjonslinjen */
+#prod {
+    font-size: 27px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.handel {
+    display: flex;
+    flex-direction: row;
+}
+#login {
+    margin: 10px;
+}
+#user {
+    width: 40px;
+    height: auto;
+    padding-top: 10px;
+}
+
+/* Handlevogn */
+#vogn {
+    justify-content: flex-end;
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+    margin-right: 20px;
+}
