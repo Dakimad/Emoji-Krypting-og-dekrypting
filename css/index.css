@@ -1,0 +1,205 @@
+/* Nullstill margin, padding og boksmodell for alle elementer */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    color: #fff;
+}
+
+/* Sett høyde og bredde til 100% for html og body */
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+/* Hovedcontainer */
+#main {
+    min-height: 100%;
+    width: 100%;
+    /* Bakgrunnsbilde med lineær gradient */
+    background-color: rgb(0, 0, 0);
+    padding: 100px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* Hovedoverskrift */
+#main > h1 {
+    font-size: 48px;
+    display: flex;
+    align-items: center;
+}
+
+/* Stil for span-elementet inne i h1 */
+#main > h1 span {
+    margin: 0 15px;
+    display: flex;
+    align-items: center;
+}
+
+/* Stil for img-elementet inne i span */
+#main > h1 span img {
+    height: 40px;
+    rotate: 90deg;
+    transition: 0.3s ease;
+}
+
+/* Stil for containeren til kryptering og dekryptering av knapper */
+#main #endec-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #222;
+    border-radius: 10px;
+    padding: 8px 8px;
+    width: 28%;
+    margin: 35px 0;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333;;
+}
+
+/* Stil for h3-elementene inne i endec-div */
+#endec-div h3 {
+    font-size: 17px;
+    display: flex;
+    border-radius: 8px;
+    font-weight: 500;
+    align-items: center;
+    cursor: pointer;
+    padding: 12px 10px;
+    transition: 0.2s ease;
+}
+
+/* Stil for krypteringsknappen */
+#enc-btn {
+    background-color: #333;
+}
+
+/* Stil for span- og img-elementene inne i h3 */
+#endec-div h3 span {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+#endec-div h3 img {
+    height: 20px;
+}
+
+/* Stil for krypteringsseksjonen */
+#kryptering {
+    width: 45%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* Stil for h5-elementene inne i kryptering */
+#kryptering h5 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #6e6e6e;
+    margin-bottom: 13px;
+}
+
+/* Stil for tekstområdet inne i kryptering */
+#kryptering textarea {
+    width: 100%;
+    height: 70px;
+    border: 1px solid #343434;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    font-size: 17px;
+    outline: none;
+    background-color: #1C1C1C;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333;;
+}
+
+/* Stil for input-elementet inne i kryptering */
+#kryptering input {
+    width: 100%;
+    border: 1px solid #343434;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+    background-color: #1C1C1C;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333;;
+}
+
+/* Stil for knappen inne i kryptering */
+#kryptering button {
+    display: flex;
+    align-items: center;
+    color: #6e6e6e;
+    background-color: #1C1C1C;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333;;
+
+    border: none;
+    width: 100%;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 10px;
+    color: #eee;
+    font-size: 17px;
+}
+
+/* Stil for span- og img-elementene inne i knappen */
+button span {
+    display: flex;
+    margin-right: 10px;
+}
+
+button img {
+    height: 20px;
+}
+
+/* Stil for dekrypteringsseksjonen */
+#dekryptering {
+    width: 45%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-around;
+    display: none;
+}
+
+/* Stil for h5-elementene inne i dekryptering */
+#dekryptering h5 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #6e6e6e;
+    margin-bottom: 13px;
+}
+
+/* Stil for tekstområdet inne i dekryptering */
+#dekryptering textarea {
+    width: 100%;
+    height: 70px;
+    border: 1px solid #343434;
+    padding: 10px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    font-size: 17px;
+    outline: none;
+    background-color: #1C1C1C;
+    box-shadow: 0 0
+}
+
+#result{
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: #1C1C1C;
+    border: 1px solid #343434;
+    width: 45%;
+    display: none;
+    margin-top: 40px;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333;; 
+}

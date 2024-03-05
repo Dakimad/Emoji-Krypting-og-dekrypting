@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Meta tags for character set, browser compatibility, and viewport settings -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="Css/index.css">
+    <!-- Include SparkMD5 library from a CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/spark-md5@3.0.0/spark-md5.min.js"></script>
+</head>
+
+<body>
+    <!-- Main container -->
+    <div id="main">
+        <!-- Main heading with an arrow image -->
+        <h1>Text <span><img src="img/arrow.png" alt=""></span> Emojis</h1>
+        
+        <!-- Container for encryption and decryption buttons -->
+        <div id="endec-div">
+            <!-- Encryption button with a lock image -->
+            <h3 id="enc-btn"><span><img src="img/openLock.png" alt=""></span> Encrypt Text</h3>
+            
+            <!-- Decryption button with a closed lock image -->
+            <h3 id="dec-btn"><span><img src="img/LukketLock.png" alt=""></span> Decrypt Emojis</h3>
+        </div>
+        
+        <!-- Krypteringsseksjon -->
+        <div id="kryptering">
+            <!-- Trinn 1: Inndataområde for å skrive inn en melding -->
+            <h5>1. Skriv en melding</h5>
+            <textarea placeholder="Skriv hær...." name="" id="textmsg" cols="30" rows="10"></textarea>
+            
+            <!-- Trinn 2: Inndataområde for å sette et passord -->
+            <h5>2. Sett et passord</h5>
+            <input placeholder="Legg til hva som helst, men husk det" type="password" name="" id="password">
+            
+            <!-- Trinn 3: Knapp for å kryptere meldingen -->
+            <h5>3. Krypter melding</h5>
+            <button id="encrypt-btn"><span><img src="./img/openLock.png" alt=""></span>Krypter Tekst</button>
+        </div>
+        
+        <!-- Dekrypteringsseksjon -->
+        <div id="dekryptering">
+            <!-- Trinn 1: Inndataområde for å lime inn en kryptert melding -->
+            <h5>1. Lim inn kryptert melding</h5>
+            <textarea placeholder="Skriv inn Emoji hær...." name="" id="emojimsg" cols="30" rows="10"></textarea>
+            
+            <!-- Trinn 2: Inndataområde for å skrive inn et passord -->
+            <h5>2. Skriv et passord</h5>
+            <input placeholder="Legg til hva som helst, men husk det" type="password" name="" id="finalpassword">
+            
+            <!-- Trinn 3: Knapp for å dekryptere emojiene -->
+            <h5>3. Dekrypter Emojiene</h5>
+            <button id="decrypt-btn"><span><img src="./img/LukketLock.png" alt=""></span>Dekrypter Tekst</button>
+        </div>
+        
+        <!-- Container for å vise resultatet -->
+        <div id="result">
+        </div>
+    </div>
+    
+    <!-- Inkluder ekstern JavaScript-fil -->
+    <script src="js/index.js"></script>
+</body>
+
+</html>
