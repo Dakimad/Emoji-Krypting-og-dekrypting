@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="css/loginn.css"> <!-- Lenke til CSS-filen for styling -->
+</head>
+<body>
+    <!-- Navigasjonslinje -->
+    <div class="nav_prod">
+        <div class="nav_flex">
+            <div id="tittel">
+                <a href="homepage.html"> <!-- Lenke til hjemmesiden -->
+                    Home <!-- Tittel på nettsiden -->
+                </a>
+            </div>
+            <div class="produkt">
+                <a href="index.html">
+                    <h2 id="prod" >Kryptering</h2> <!-- Overskrift for Produkter -->
+                </a>
+            </div>
+            <!-- Ikoner for bruker og handlekurv -->
+            <div class="handel">
+                <div id="logginnbox">
+                    <div id="login">
+                        <a href="login.html">
+                            <img src="img/user.png" alt="profil" id="user"> <!-- Ikoner for brukerprofiler -->
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Innhold på nettsiden -->
+    <div id="dik">
+        <div class="login-box">
+            <form class="login-form" action="login.php" method="post">
+                <label for="username">Brukernavn:</label>
+                <input type="text" name="username" id="username" required><br><br> <!-- Felt for brukernavn -->
+                    
+                <label for="password">Passord:</label>
+                <input type="password" name="password" id="password" required><br><br> <!-- Felt for passord -->
+                    
+                <input type="submit" value="Logg inn"> <!-- Logg inn-knapp -->
+            </form>
+        </div> 
+    </div>   
+</body>
+</html>
