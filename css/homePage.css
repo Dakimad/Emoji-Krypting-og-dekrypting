@@ -6,13 +6,24 @@ a {
 
 /* Endrer bakgrunnsfargen på siden */
 body {
-background-color: #3c3d3f;
+    background-image: linear-gradient(
+    23deg,
+    hsl(49deg 100% 69%) 0%,
+    hsl(16deg 80% 61%) 2%,
+    hsl(330deg 81% 34%) 12%,
+    hsl(259deg 100% 15%) 50%,
+    hsl(212deg 100% 25%) 88%,
+    hsl(197deg 100% 30%) 98%,
+    hsl(183deg 79% 36%) 100%
+  );
+  height: 100vh;
 }
 
 
 /* Navigasjonsdiv-elementet */
 .nav_flex {
-    background: #e4df96;
+    background: #08529d;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333;; /* Endrer bakgrunnsfarge til mørk khaki */
     display: flex; /* Bruker flexbox for layout */
     justify-content: space-between; /* Sprer elementene jevnt langs aksen */
     align-items: center; /* Sentrerer elementene vertikalt */
@@ -84,6 +95,7 @@ background-color: #3c3d3f;
 /* Ved hover-effekt forstørres og vises en skygge på div-elementene */
 .image-container:hover {
     transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .image-container img {
@@ -100,7 +112,8 @@ background-color: #3c3d3f;
 }
 
 .tekst {
-    background: #dddb8c;
+    background: #08529d;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333; /* Setter bakgrunnsfargen til mørk khaki */
     border-radius: 10px; /* Gir avrundede hjørner */
     margin-left: 45px;
     margin-right: 45px;
@@ -125,4 +138,3 @@ background-color: #3c3d3f;
     width: 50px; /* Setter bredden til 50 piksler */
     height: auto; /* Beholder proporsjonene */
 }
-
