@@ -1,0 +1,121 @@
+/* Definerer stilen for det øverste (top) området i layouten */
+.topp {
+    grid-area: t;
+}
+
+/* Definerer stilen for venstre sidepanel */
+.venstre {
+    background-color: rgb(22, 27, 28);
+    width: 250px;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    margin: 1rem;
+    height: 660px;
+}
+
+/* Legger til stil for et flytende (floating) øverst plassert element */
+.floattop {
+    position: top;
+}
+
+/* Definerer stilen for høyre side av layouten */
+.hoyre {
+    background-color: rgb(42, 42, 42);
+}
+
+/* Definerer stilen for en boks med spesifikke egenskaper */
+.box1 {
+    background-color: rgb(55, 55, 55);
+    margin: 1rem;
+    border-radius: 1rem;
+    height: auto; /* Justerer høyden automatisk basert på innholdet */
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
+
+/* Legger til stil for avsnitt (paragraph) elementer */
+p {
+    padding-left: 1rem;
+}
+
+/* Legger til stil for hele nettsiden (body) */
+body {
+    margin: 0px;
+    background-color: rgb(42, 42, 42);
+}
+
+/* Definerer stilen for hovedområdet i layouten */
+#hoved {
+    height: 100vh;
+    display: grid;
+    background-color: rgb(42, 42, 42);
+    grid-template-columns: 1fr 6fr;
+}
+
+/* Definerer stilen for et bilde med begrensninger */
+.bilde {
+    width: 100%;
+    max-width: 200px;
+    max-height: 80vh;
+    border-radius: 1rem;
+}
+
+/* Legger til stil for en ordnet liste (ol) */
+ol {
+    background: #9d0826;
+    box-shadow: 0 0 0.5em 0.1em #c3c3c333;
+    list-style-type: none;
+    overflow: hidden;
+    padding: 20px;
+    position: left;
+    margin: 10px;
+    border-radius: 1rem;
+}
+
+/* Legger til stil for listeelementer (li) i den ordnede listen */
+.li {
+    float: left;
+}
+
+/* Legger til stil for lenker (a) i listeelementene */
+li a {
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+    border-radius: 1rem;
+}
+
+/* Legger til stil for hover-effekten på lenkene i listen */
+li a:hover {
+    background-color: aquamarine;
+}
+
+/* Legger til stil for en overskrift (h1) */
+.heder1 {
+    padding: 1rem;
+    color: lightskyblue;
+}
+
+/* Legger til stil for et avsnitt (paragraph) med spesifikke egenskaper */
+.paragraph {
+    color: mediumturquoise;
+}
+
+/* Legger til stil for en liste (ul) */
+.list {
+    color: aquamarine;
+}
+
+/* Legger til stil for en boks med et bilde (img) */
+.imgbox {
+    background-color: rgb(63, 167, 179);
+}
+
+/* Definerer stilen for en annen boks med spesifikke egenskaper */
+.box2 {
+    height: 660px;
+}
