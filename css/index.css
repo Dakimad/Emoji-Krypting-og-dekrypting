@@ -255,11 +255,6 @@ button img {
     margin-top: 40px;
     box-shadow: 0 0 0.5em 0.1em #c3c3c333;;
 }
-/* Setter lenketeksten til svart og fjerner understreking på hele siden */
-a {
-    text-decoration: none; /* Fjerner understrek på lenker */
-    color: black; /* Endrer lenkefargen til svart */
-}
 
 /* Navigasjonsdiv-elementet */
 .nav_flex {
@@ -310,4 +305,12 @@ a {
     width: 40px;
     padding: 20px;
     margin-right: 20px;
+}
+
+/* Hele div-elementet for produktene */
+.inne {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
 }
