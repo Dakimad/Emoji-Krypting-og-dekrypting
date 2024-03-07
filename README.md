@@ -1,4 +1,4 @@
-***Bruker Testing
+*Bruker Testing
 
 **Brukertesting Skjema 1: Testdeltaker med Lite Erfaring**
 
