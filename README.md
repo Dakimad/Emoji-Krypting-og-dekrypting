@@ -104,6 +104,7 @@ Selvfølgelig! Her er to positive brukertester med ulike profiler:
   - Svar: Jeg likte den enkle og brukervennlige designen som gjorde hele prosessen glatt og effektiv.
 - Hva var mest imponerende eller overraskende for testdeltakeren?
   - Svar: Jeg ble imponert over hvor raskt jeg kunne tilpasse meg plattformen, selv uten mye erfaring.
+- Egen detalie: jeg syns det var lit rart at det var hvit i hjørene på navigasjons baren på krypteringsnettsiden
 
 Før:
       <img width="1439" alt="Screenshot 2024-03-06 at 13 08 54" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/633c2c78-63cb-4d12-95c9-a7faab1bb43e">
