@@ -1,5 +1,3 @@
-Selvfølgelig, her er skjemaet fylt ut med informasjonen du har gitt:
-
 **Dekryptering og Brukervennlighetstesting Skjema**
 
 **Introduksjon:**
