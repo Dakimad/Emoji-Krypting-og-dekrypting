@@ -147,3 +147,25 @@ Etter:
   - Svar: Jeg likte den moderne designen og enkelheten som gjorde det enkelt for selv en student som meg å bruke plattformen.
 - Hva var mest imponerende eller overraskende for testdeltakeren?
   - Svar: Jeg ble positivt overrasket over hvor raskt jeg kunne mestre plattformen, til tross for min begrensede erfaring innenfor dette feltet.
+
+
+
+
+**Serveroppsett**
+
+**Bakgrunn:**
+Jeg tok initiativ til å konfigurere to containere på en Core med Ubuntu-serveren min. En container skulle være for kjøring av nettsiden, mens den andre skulle være for MySQL-databaser.
+
+**Trinnene i Serveroppsettet:**
+
+1. **Opprettelse av Containere:**
+   - Jeg startet med å lage to containere – en Core med Ubuntu-server for nettsiden og en MySQL-container for databaseoppsett.
+
+2. **Klone Github-repositoriet:**
+   - For Core-containeren, klonte jeg GitHub-repositoriet rett mot serveren. Dette trinnet var enkelt og raskt utført.
+
+3. **Tilpasninger og Feilretting:**
+   - Etter kloneprosessen måtte jeg gjøre noen tilpasninger på grunn av forskjeller mellom min laptop og serveren. Dette inkluderte å justere enkelte filer for å sikre sømløs drift på serveren. For disse endringene brukte jeg både laptop og Visual Studio Code, da det viste seg å være en effektiv metode.
+
+4. **Alternativ Tilpasning:**
+   - En annen tilpasningsmetode, selv om mer tidkrevende, er å slette alle filene i containeren og deretter klone GitHub-repositoriet på nytt. Dette kan være et alternativ for de som foretrekker en ren start.
