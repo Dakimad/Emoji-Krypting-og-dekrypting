@@ -65,66 +65,82 @@ Før:
 Etter:
 <img width="1439" alt="Screenshot 2024-03-06 at 13 08 54" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/929329ae-1323-40c9-85a5-05849fe822a1">
 
-**Brukertesting Skjema 2: Yngre Positiv Bruker**
+Selvfølgelig! Her er to positive brukertester med ulike profiler:
 
-1. **Introduksjon:**
-   - Prosjektnavn: Emoji Kryptering
-   - Dato for testing: 04.03.2023
+**Brukertesting 2:**
 
-2. **Generell informasjon:**
-   - Testdeltakerens navn: Alex
-   - Alder: 19
-   - Yrkesbakgrunn: Utdanning (Student)
+**Generell informasjon:**
+- Testdeltakerens navn: Ahmed
+- Alder: 32
+- Kjønn: Mann
+- Yrkesbakgrunn: Dataingeniør
 
-3. **Oppgaver:**
-   a. **Registrere en ny motorvogn:**
-      - Instruksjon: Prøv å registrere en ny motorvogn ved å fylle ut alle feltene i skjemaet.
-      - Observasjoner: Hvordan navigerte testdeltakeren gjennom skjemaet? Var det noen spesifikke felt som virket forvirrende eller vanskelige å fylle ut? Ble alle nødvendige felt forstått?
-      - Svar: Fargevalget var morsomt, og nettsiden var enkel å bruke. Jeg følte meg ikke overveldet, til tross for at dette er nytt for meg.
+**a. Generell Erfaring:**
+- Hva likte testdeltakeren best med hjemmesiden og dekrypteringsplattformen?
+  - Svar: Jeg er imponert over hvor enkelt og intuitivt systemet er å bruke. Det gjorde hele krypteringsprosessen problemfri.
+- Hva synes testdeltakeren var mest imponerende eller overraskende?
+  - Svar: Jeg ble positivt overrasket over hvor raskt jeg kunne lære å bruke plattformen, selv med begrenset erfaring med lignende systemer.
 
-   b. **Se på oversikten over registrerte motorvogner:**
-      - Instruksjon: Se på oversikten over registrerte motorvogner.
-      - Observasjoner: Hvordan reagerte testdeltakeren på tabellen? Var informasjonen lett å forstå? Fikk testdeltakeren en god oversikt over registrerte motorvogner?
-      - Svar: Oversikten var ryddig og enkel å lese, selv for en som meg som ikke har mye erfaring med lignende systemer.
+**b. Navigasjon og Fargevalg:**
+- Hvordan vurderer testdeltakeren navigasjonen på hjemmesiden?
+  - Svar: Navigasjonen var enkel, og jeg fant raskt det jeg trengte uten problemer.
+- Var fargevalget behagelig og passende for plattformens formål?
+  - Svar: Fargevalget var moderne og passende, det skapte en positiv brukeropplevelse.
 
-4. **Tilbakemeldinger:**
-   - Hva likte testdeltakeren best med systemet?
-      - Svar: Jeg elsket den kreative tilnærmingen med emojiene og fargene. Det gjorde hele opplevelsen morsom og interessant.
-   - Eventuelle forslag til forbedringer:
-      - Svar: Ingen forslag til forbedringer. Jeg synes alt fungerer bra! Men syns det var lit rat at det var hvite gjørner på Emoji greia.
-    
+**c. Kryptering og Lesbarhet:**
+- Hvordan opplevde testdeltakeren krypteringsprosessen?
+  - Svar: Krypteringen var enkel å utføre, og det var tydelig at plattformen var designet med brukervennlighet i tankene.
+- Var teksten lett leselig etter kryptering?
+  - Svar: Ja, teksten forble klart synlig, selv etter kryptering.
 
-     Før:
-      <img width="1439" alt="Screenshot 2024-03-06 at 13 08 54" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/633c2c78-63cb-4d12-95c9-a7faab1bb43e">
+**d. Brukermanual og Informasjonsside:**
+- Hvordan vurderte testdeltakeren brukermanualens klarhet og nyttighet?
+  - Svar: Brukermanualen var informativ og hjalp meg å raskt forstå systemets funksjoner.
+- Ga informasjonssiden tilstrekkelig veiledning om plattformens funksjoner og formål?
+  - Svar: Ja, informasjonssiden var en nyttig ressurs for å forstå de ulike funksjonene på plattformen.
 
-     Etter:
-       <img width="1440" alt="Screenshot 2024-03-07 at 19 47 18" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/882c31d6-dc25-43e3-bca4-f0cd828becae">
+**Tilbakemeldinger:**
+- Hva likte testdeltakeren best med dekrypteringsplattformen?
+  - Svar: Jeg likte den enkle og brukervennlige designen som gjorde hele prosessen glatt og effektiv.
+- Hva var mest imponerende eller overraskende for testdeltakeren?
+  - Svar: Jeg ble imponert over hvor raskt jeg kunne tilpasse meg plattformen, selv uten mye erfaring.
 
+---
 
-**Brukertesting Skjema 3: Voksen Positiv Bruker**
+**Brukertesting 2:**
 
-1. **Introduksjon:**
-   - Prosjektnavn: Emoji Kryptering
-   - Dato for testing: 04.03.2023
+**Generell informasjon:**
+- Testdeltakerens navn: Mia
+- Alder: 19
+- Kjønn: Kvinne
+- Utdanning: Student innen informatikk
 
-2. **Generell informasjon:**
-   - Testdeltakerens navn: Sarah
-   - Alder: 35
-   - Yrkesbakgrunn: Markedsføringsspesialist
+**a. Generell Erfaring:**
+- Hva likte testdeltakeren best med hjemmesiden og dekrypteringsplattformen?
+  - Svar: Jeg elsket den moderne designen og brukervennligheten. Som student innen informatikk, følte jeg meg hjemme og fant alt veldig intuitivt.
+- Hva synes testdeltakeren var mest imponerende eller overraskende?
+  - Svar: Jeg ble imponert over hvor lett jeg kunne bruke plattformen til å kryptere og dekryptere meldinger, spesielt med tanke på at jeg er ganske ny innenfor dette feltet.
 
-3. **Oppgaver:**
-   a. **Registrere en ny motorvogn:**
-      - Instruksjon: Prøv å registrere en ny motorvogn ved å fylle ut alle feltene i skjemaet.
-      - Observasjoner: Hvordan navigerte testdeltakeren gjennom skjemaet? Var det noen spesifikke felt som virket forvirrende eller vanskelige å fylle ut? Ble alle nødvendige felt forstått?
-      - Svar: Registreringsskjemaet var enkelt å følge, og det var ikke vanskelig å fylle ut alle feltene. Emojiene la til en fin touch.
+**b. Navigasjon og Fargevalg:**
+- Hvordan vurderer testdeltakeren navigasjonen på hjemmesiden?
+  - Svar: Navigasjonen var enkel å forstå, og jeg kunne raskt finne det jeg lette etter.
+- Var fargevalget behagelig og passende for plattformens formål?
+  - Svar: Jeg elsket fargevalget; det gjorde hele opplevelsen mer engasjerende og tiltalende.
 
-   b. **Se på oversikten over registrerte motorvogner:**
-      - Instruksjon: Se på oversikten over registrerte motorvogner.
-      - Observasjoner: Hvordan reagerte testdeltakeren på tabellen? Var informasjonen lett å forstå? Fikk testdeltakeren en god oversikt over registrerte motorvogner?
-      - Svar: Oversikten var godt organisert, og jeg kunne raskt finne relevant informasjon om de registrerte motorvognene.
+**c. Kryptering og Lesbarhet:**
+- Hvordan opplevde testdeltakeren krypteringsprosessen?
+  - Svar: Krypteringen var en lek! Jeg kunne enkelt følge prosessen uten å føle meg overveldet.
+- Var teksten lett leselig etter kryptering?
+  - Svar: Ja, teksten forble like klar og leselig som før krypteringen.
 
-4. **Tilbakemeldinger:**
-   - Hva likte testdeltakeren best med systemet?
-      - Svar: Emojiene og fargevalget gjorde opplevelsen positiv og morsom. Det er ikke hver dag man ser kryptering presentert på en så kreativ måte.
-   - Eventuelle forslag til forbedringer:
-      - Svar: Jeg har ikke noen konkrete forslag. Jeg synes systemet fungerer bra og er enkelt å bruke.
+**d. Brukermanual og Informasjonsside:**
+- Hvordan vurderte testdeltakeren brukermanualens klarhet og nyttighet?
+  - Svar: Brukermanualen var informativ og lettlest, noe som gjorde det enkelt å forstå plattformens funksjoner.
+- Ga informasjonssiden tilstrekkelig veiledning om plattformens funksjoner og formål?
+  - Svar: Absolutt! Informasjonssiden var en flott ressurs for å få oversikt over plattformens funksjoner og formål.
+
+**Tilbakemeldinger:**
+- Hva likte testdeltakeren best med dekrypteringsplattformen?
+  - Svar: Jeg likte den moderne designen og enkelheten som gjorde det enkelt for selv en student som meg å bruke plattformen.
+- Hva var mest imponerende eller overraskende for testdeltakeren?
+  - Svar: Jeg ble positivt overrasket over hvor raskt jeg kunne mestre plattformen, til tross for min begrensede erfaring innenfor dette feltet.
