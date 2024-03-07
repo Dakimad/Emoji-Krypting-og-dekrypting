@@ -5,7 +5,7 @@
    - Dato for testing: 04.03.2023
 
 2. **Generell informasjon:**
-   - Testdeltakerens navn: Dame
+   - Testdeltakerens navn: Ellen
    - Alder: 47
    - Yrkesbakgrunn: Prosjektleder
    - Tidligere erfaring med lignende systemer: Lite erfaring
