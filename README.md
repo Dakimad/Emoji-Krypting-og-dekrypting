@@ -63,7 +63,6 @@ Før:
 Etter:
 <img width="1439" alt="Screenshot 2024-03-06 at 13 08 54" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/929329ae-1323-40c9-85a5-05849fe822a1">
 
-Selvfølgelig! Her er to positive brukertester med ulike profiler:
 
 **Brukertesting 2:**
 
@@ -109,8 +108,6 @@ Før:
 
 Etter:
       <img width="1440" alt="Screenshot 2024-03-07 at 19 47 18" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/f7e772be-6860-48ff-9f03-36771321ec67">
-
-
 
 
 **Brukertesting 3:**
