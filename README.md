@@ -1,17 +1,14 @@
-**Bruker Testing
-
-Selvfølgelig, her er et eksempel på hvordan brukeren (Dame, 47 år gammel) kan svare på brukertesting-skjemaet:
 
 **Brukertesting Skjema 1: Testdeltaker med Lite Erfaring**
 
 1. **Introduksjon:**
    - Prosjektnavn: Motorvognregister
-   - Dato for testing: [Dato]
+   - Dato for testing: 04.03.20223
 
 2. **Generell informasjon:**
    - Testdeltakerens navn: Dame
    - Alder: 47
-   - Yrkesbakgrunn: [Yrkesbakgrunn]
+   - Yrkesbakgrunn: Prosjekt leder
    - Tidligere erfaring med lignende systemer: Lite erfaring
 
 3. **Oppgaver:**
