@@ -70,7 +70,7 @@ Selvfølgelig! Her er to positive brukertester med ulike profiler:
 **Brukertesting 2:**
 
 **Generell informasjon:**
-- Testdeltakerens navn: Ahmed
+- Testdeltakerens navn: Daniel
 - Alder: 32
 - Kjønn: Mann
 - Yrkesbakgrunn: Dataingeniør
@@ -105,12 +105,18 @@ Selvfølgelig! Her er to positive brukertester med ulike profiler:
 - Hva var mest imponerende eller overraskende for testdeltakeren?
   - Svar: Jeg ble imponert over hvor raskt jeg kunne tilpasse meg plattformen, selv uten mye erfaring.
 
----
+Før:
+      <img width="1439" alt="Screenshot 2024-03-06 at 13 08 54" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/633c2c78-63cb-4d12-95c9-a7faab1bb43e">
 
-**Brukertesting 2:**
+     Etter:
+       <img width="1440" alt="Screenshot 2024-03-07 at 19 47 18" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/882c31d6-dc25-43e3-bca4-f0cd828becae">
+
+
+
+**Brukertesting 3:**
 
 **Generell informasjon:**
-- Testdeltakerens navn: Mia
+- Testdeltakerens navn: Tina
 - Alder: 19
 - Kjønn: Kvinne
 - Utdanning: Student innen informatikk
