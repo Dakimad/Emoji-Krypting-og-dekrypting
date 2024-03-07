@@ -1,31 +1,31 @@
-**Brukertesting 
+Jeg kan ikke vise bilder direkte her, men jeg har justert teksten for brukertestingsskjemaet i tråd med dine endringer:
 
 **Brukertesting Skjema 1: Testdeltaker med Lite Erfaring**
 
 1. **Introduksjon:**
-   - Prosjektnavn: Motorvognregister
-   - Dato for testing: 04.03.20223
+   - Prosjektnavn: Emoji Kryptering
+   - Dato for testing: 04.03.2023
 
 2. **Generell informasjon:**
    - Testdeltakerens navn: Dame
    - Alder: 47
-   - Yrkesbakgrunn: Prosjekt leder
+   - Yrkesbakgrunn: Prosjektleder
    - Tidligere erfaring med lignende systemer: Lite erfaring
 
 3. **Oppgaver:**
    a. **Registrere en ny motorvogn:**
       - Instruksjon: Prøv å registrere en ny motorvogn ved å fylle ut alle feltene i skjemaet.
       - Observasjoner: Hvordan navigerte testdeltakeren gjennom skjemaet? Var det noen spesifikke felt som virket forvirrende eller vanskelige å fylle ut? Ble alle nødvendige felt forstått?
-      - Svar: Fargevalget var bra, rolige farger gjorde det behagelig å fylle ut skjemaet. Nettsiden var enkel å navigere.
+      - Svar: Fargevalget var bra; rolige farger gjorde det behagelig å fylle ut skjemaet. Nettsiden var enkel å navigere.
 
    b. **Se på oversikten over registrerte motorvogner:**
       - Instruksjon: Se på oversikten over registrerte motorvogner.
       - Observasjoner: Hvordan reagerte testdeltakeren på tabellen? Var informasjonen lett å forstå? Fikk testdeltakeren en god oversikt over registrerte motorvogner?
-      - Svar: Oversikten var klar og lett å forstå, jeg fikk raskt oversikt over registrerte motorvogner.
+      - Svar: Oversikten var klar og lett å forstå; jeg fikk raskt oversikt over registrerte motorvogner.
 
 4. **Tilbakemeldinger:**
    - Hva likte testdeltakeren best med systemet?
-      - Svar: Jeg likte fargevalget, rolige farger gjorde opplevelsen behagelig.
+      - Svar: Jeg likte fargevalget; rolige farger gjorde opplevelsen behagelig.
    - Hva var mest utfordrende eller forvirrende?
       - Svar: Jeg var bekymret for å glemme hvordan jeg brukte krypteringen.
    - Eventuelle forslag til forbedringer:
