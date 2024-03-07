@@ -64,6 +64,7 @@ Etter:
 <img width="1439" alt="Screenshot 2024-03-06 at 13 08 54" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/929329ae-1323-40c9-85a5-05849fe822a1">
 
 
+
 **Brukertesting 2:**
 
 **Generell informasjon:**
@@ -110,6 +111,7 @@ Etter:
       <img width="1440" alt="Screenshot 2024-03-07 at 19 47 18" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/f7e772be-6860-48ff-9f03-36771321ec67">
 
 
+
 **Brukertesting 3:**
 
 **Generell informasjon:**
@@ -147,7 +149,6 @@ Etter:
   - Svar: Jeg likte den moderne designen og enkelheten som gjorde det enkelt for selv en student som meg å bruke plattformen.
 - Hva var mest imponerende eller overraskende for testdeltakeren?
   - Svar: Jeg ble positivt overrasket over hvor raskt jeg kunne mestre plattformen, til tross for min begrensede erfaring innenfor dette feltet.
-
 
 
 
