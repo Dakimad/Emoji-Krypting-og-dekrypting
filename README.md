@@ -170,3 +170,9 @@ Jeg tok initiativ til å konfigurere to containere på en Core med Ubuntu-server
 
 4. **Alternativ Tilpasning:**
    - En annen tilpasningsmetode, selv om mer tidkrevende, er å slette alle filene i containeren og deretter klone GitHub-repositoriet på nytt. Dette kan være et alternativ for de som foretrekker en ren start.
+  
+
+**Sikkerhet**
+
+**Bruker sikkerhet**
+
