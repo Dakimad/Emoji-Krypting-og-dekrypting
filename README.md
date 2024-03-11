@@ -174,5 +174,34 @@ Jeg tok initiativ til å konfigurere to containere på en Core med Ubuntu-server
 
 **Sikkerhet**
 
-**Bruker sikkerhet**
+1. **SSL-sertifikat (HTTPS):**
+   - *Hvorfor:* Kryptering av dataoverføring mellom brukerens nettleser og nettsiden er essensiell for å beskytte sensitiv informasjon som personopplysninger, innloggingsdetaljer og  betalingsinformasjon.
+
+2. **Brannmur:**
+   - *Hvorfor:* En brannmur bidrar til å hindre uautorisert tilgang til nettsiden og beskytter mot ulike typer cyberangrep, inkludert DDoS (Distributed Denial of Service) angrep.
+
+3. **Regelmessige sikkerhetsoppdateringer:**
+   - *Hvorfor:* Oppdatering av nettsidens programvare og plattform er avgjørende for å tette sikkerhetshull og beskytte mot kjente sårbarheter. Dette gjelder både nettsideprogramvare,   plugins og serverprogramvare.
+
+4. **Sterke autentiseringsmetoder:**
+   - *Hvorfor:* Bruk av sterke passord, tofaktorautentisering (2FA) og andre autentiseringsmekanismer hjelper til med å forhindre uautorisert tilgang til brukerkontoer.
+
+5. **Datakryptering:**
+   - *Hvorfor:* Kryptering av lagrede data beskytter sensitiv informasjon mot uautorisert tilgang, selv om en inntrenger får tilgang til serveren eller databasen.
+
+6. **Regelmessige sikkerhetskopier:**
+   - *Hvorfor:* Sikkerhetskopiering av nettsideinnhold og data er viktig for å kunne gjenopprette informasjon i tilfelle datahavari, angrep eller annen uforutsett hendelse.
+
+7. **Intrusjonsdeteksjonssystemer (IDS) og Intrusjonsforebyggingssystemer (IPS):**
+   - *Hvorfor:* Disse systemene overvåker nettverkstrafikk for mistenkelig aktivitet og kan enten varsle eller hindre uautoriserte forsøk på tilgang.
+
+8. **Sikkerhetsrevisjoner og penetrasjonstesting:**
+   - *Hvorfor:* Periodiske sikkerhetsrevisjoner og penetrasjonstester hjelper til med å identifisere sårbarheter og svakheter i sikkerheten før potensielle angripere gjør det.
+
+9. **Godkjenningskontroll:**
+   - *Hvorfor:* Begrens tilgangen til sensitive områder og funksjoner til kun autoriserte brukere. Dette reduserer risikoen for misbruk og uautorisert tilgang.
+
+10. **Personvern og databeskyttelse:**
+    - *Hvorfor:* Overholdelse av personvernlover og implementering av retningslinjer for håndtering av personopplysninger er nødvendig for å beskytte brukernes personvern og unngå  juridiske konsekvenser.
+
 
