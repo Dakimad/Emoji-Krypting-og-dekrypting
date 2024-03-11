@@ -37,11 +37,13 @@
     <div id="dik">
         <div class="login-box">
             <form class="login-form" action="/php/login.php" method="post">
+                <!-- Felt for brukernavn -->
                 <label for="username">Brukernavn:</label>
-                <input type="text" name="username" id="username" required><br><br> <!-- Felt for brukernavn -->
-                    
+                <input type="text" name="username" id="username" required><br><br> 
+                   <!-- Felt for passord -->  
                 <label for="password">Passord:</label>
-                <input type="password" name="password" id="password" required><br><br> <!-- Felt for passord -->
+                <input type="password" name="password" id="password" pattern="(?=.*\d)(?=.*[A-Z])(?=.*\W)(?=.*[a-z]).{8,}" title="Passordet må inneholde minst én stor bokstav, ett tall, ett spesialtegn, og være minst 8 tegn langt." required><br><br>
+
                     
                 <input type="submit" value="Logg inn"> <!-- Logg inn-knapp -->
             </form>
