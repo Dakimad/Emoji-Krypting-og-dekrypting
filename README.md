@@ -165,7 +165,7 @@ Jeg tok initiativ til å konfigurere to containere på en Core med Ubuntu-server
     
 2. **Minimal Krav**
    - De Minimmale kravene for å sette opp serverwen min er: 
-     <img width="433" alt="Screenshot 2024-03-12 at 13 31 06" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/9874e947-c09d-450b-9a3d-91d06e50691e">
+<img width="433" alt="Screenshot 2024-03-12 at 13 31 06" src="https://github.com/Dakimad/Emoji-Krypting-og-dekrypting/assets/104507449/9874e947-c09d-450b-9a3d-91d06e50691e">
 
 3. **Klone Github-repositoriet:**
    - For Core-containeren, klonte jeg GitHub-repositoriet rett mot serveren. Dette trinnet var enkelt og raskt utført.
