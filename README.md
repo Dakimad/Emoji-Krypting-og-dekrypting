@@ -166,7 +166,7 @@ Jeg tok initiativ til å konfigurere to containere på en Core med Ubuntu-server
    - For Core-containeren, klonte jeg GitHub-repositoriet rett mot serveren. Dette trinnet var enkelt og raskt utført.
 
 3. **Tilpasninger og Feilretting:**
-   - Etter kloneprosessen måtte jeg gjøre noen tilpasninger på grunn av forskjeller mellom min laptop og serveren. Dette inkluderte å justere enkelte filer for å sikre sømløs drift på serveren. For disse endringene brukte jeg både laptop og Visual Studio Code, da det viste seg å være en effektiv metode.
+   - Etter kloneprosessen måtte jeg gjøre noen tilpasninger på grunn av forskjeller mellom min laptop og serveren. Dette inkluderte å justere enkelte filer for å sikre sømløs drift på serveren. For å implementere disse endringene, gikk jeg inn i serverkoden og rettet opp noen småfeil. Dette skyldes at Ubuntu ikke er like tolerant som macOS når det gjelder kodepresisjon. Selv om VS Code tillater bruk av små bokstaver i filnavn, fungerer det ikke som forventet når filnavnet inneholder store bokstaver og jeg refererer til det med små bokstaver i koden. da det viste seg å være en effektiv metode.
 
 4. **Alternativ Tilpasning:**
    - En annen tilpasningsmetode, selv om mer tidkrevende, er å slette alle filene i containeren og deretter klone GitHub-repositoriet på nytt. Dette kan være et alternativ for de som foretrekker en ren start.
