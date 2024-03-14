@@ -14,8 +14,37 @@ Når brukeren trykker på "Dekrypter" -knappen, hentes den krypterte teksten og 
 4. **Knappehåndtering**:
    Det er knapper for å bytte mellom krypterings- og dekrypteringsmodus. Disse knappene endrer visningen på nettsiden basert på hvilken modus som er valgt.
 
-5. **Logg inn**:
-   
+**Logg inn**
+
+1. **Feilmeldinger aktiveres for feilsøking**:
+Det første skriptet gjør er å aktivere visning av feilmeldinger for å lette feilsøking under utvikling. Dette bør fjernes eller endres i produksjonsmiljøet for sikkerhetsformål.
+
+2. **Database tilkoblingsdetaljer**:
+Det definerer detaljer for å koble til databasen, inkludert vertsadresse, brukernavn, passord og databaseskjema.
+
+3. **Opprettelse av MySQLi-tilkobling**:
+Deretter opprettes en tilkobling til databasen ved hjelp av MySQLi-objektet. Hvis tilkoblingen mislykkes, vil skriptet avslutte med en feilmelding.
+
+4. **Behandling av forespørsel**:
+Skriptet sjekker om forespørselsmetoden er POST. Dette antyder at data er sendt fra et skjema, for eksempel et påloggingsformular.
+
+5. **Sikring av brukerinput**:
+Brukerinndata, i dette tilfellet brukernavn og passord, blir sikret mot SQL-injeksjon ved å bruke `real_escape_string`-funksjonen.
+
+6. **Utføring av spørring**:
+En forberedt spørring blir utført for å hente data fra databasen basert på det oppgitte brukernavnet.
+
+7. **Behandling av resultat**:
+Resultatet av spørringen blir sjekket for å se om det finnes en matchende bruker. Hvis et samsvar blir funnet, blir det lagrede passordet sammenlignet med det innsendte passordet.
+
+8. **Omdirigering ved vellykket pålogging**:
+Hvis legitimasjonen er vellykket, omdirigeres brukeren til en annen side, for eksempel en innloggede side.
+
+9. **Visning av feilmelding ved ugyldige legitimasjonsopplysninger**:
+Hvis passordet ikke samsvarer med det lagrede passordet, vises en feilmelding.
+
+10. **Lukking av databaseforbindelsen**:
+Til slutt lukkes databaseforbindelsen for å frigjøre ressurser.
 
 **Introduksjon:**
 - Prosjektnavn: Dekrypteringsplattform
