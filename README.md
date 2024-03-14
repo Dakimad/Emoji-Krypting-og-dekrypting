@@ -1,5 +1,22 @@
 **Dekryptering og Brukervennlighetstesting Skjema**
 
+**Hav gjør nettsiden**
+
+1. **MD5-kryptering av passord**:
+Det har en funksjon (`encryptWithMD5`) som tar inn et passord og utfører MD5-kryptering på det.
+
+2. **Kryptering**:
+Når brukeren trykker på "Krypter" -knappen, hentes passordet og teksten fra input-feltet. Teksten konverteres deretter til en rekke emojis, og dette krypterte resultatet vises på nettsiden. Den krypterte teksten lagres også i `localStorage` sammen med passordet for senere dekryptering.
+
+3. **Dekryptering**:
+Når brukeren trykker på "Dekrypter" -knappen, hentes den krypterte teksten og det angitte passordet. Deretter utføres MD5-kryptering på det angitte passordet for sammenligning med lagrede krypterte passord. Hvis passordene stemmer overens, dekodes den krypterte teksten tilbake til den opprinnelige teksten og vises på nettsiden.
+
+4. **Knappehåndtering**:
+   Det er knapper for å bytte mellom krypterings- og dekrypteringsmodus. Disse knappene endrer visningen på nettsiden basert på hvilken modus som er valgt.
+
+5. **Logg inn**:
+   
+
 **Introduksjon:**
 - Prosjektnavn: Dekrypteringsplattform
 - Dato for testing: 04.03.2023
