@@ -195,8 +195,7 @@ Etter:
   - Svar: Jeg likte den moderne designen og enkelheten som gjorde det enkelt for selv en student som meg å bruke plattformen.
 - Hva var mest imponerende eller overraskende for testdeltakeren?
   - Svar: Jeg ble positivt overrasket over hvor raskt jeg kunne mestre plattformen, til tross for min begrensede erfaring innenfor dette feltet.
-
-
+  
 
 **Serveroppsett**
 
