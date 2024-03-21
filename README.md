@@ -226,6 +226,7 @@ Jeg tok initiativ til å konfigurere to containere på en Core med Ubuntu-server
 
 1. **SSL-sertifikat (HTTPS):**
    - *Hvorfor:* Kryptering av dataoverføring mellom brukerens nettleser og nettsiden er essensiell for å beskytte sensitiv informasjon som personopplysninger, innloggingsdetaljer og  betalingsinformasjon.
+   - Et SSL-sertifikat gjør nettsider trygge ved å kryptere dataene som sendes mellom nettleseren din og serveren deres. Når du ser "https://" i nettadressen og en hengelås, betyr det at forbindelsen er sikker, og informasjonen din er beskyttet.
 
 2. **Brannmur:**
    - *Hvorfor:* En brannmur bidrar til å hindre uautorisert tilgang til nettsiden og beskytter mot ulike typer cyberangrep, inkludert DDoS (Distributed Denial of Service) angrep.
@@ -244,6 +245,8 @@ Jeg tok initiativ til å konfigurere to containere på en Core med Ubuntu-server
 
 7. **Intrusjonsdeteksjonssystemer (IDS) og Intrusjonsforebyggingssystemer (IPS):**
    - *Hvorfor:* Disse systemene overvåker nettverkstrafikk for mistenkelig aktivitet og kan enten varsle eller hindre uautoriserte forsøk på tilgang.
+   - IDS overvåker nettverkstrafikken for uvanlig aktivitet eller mistenkelig oppførsel. Når det oppdager noe rart, gir det beskjed om det, men det stopper ikke aktiviteten.
+     IPS fungerer på samme måte som IDS, men det tar det et skritt videre ved å aktivt blokkere eller forhindre uautorisert tilgang eller angrep på nettverket.
 
 8. **Sikkerhetsrevisjoner og penetrasjonstesting:**
    - *Hvorfor:* Periodiske sikkerhetsrevisjoner og penetrasjonstester hjelper til med å identifisere sårbarheter og svakheter i sikkerheten før potensielle angripere gjør det.
